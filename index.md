@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jakob Sinnitsch's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jakob Sinnitsch
+Mechanical Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="j.sinnitsch@gmail.com">j.sinnitsch@gmail.com"</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
